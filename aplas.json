@@ -22,7 +22,28 @@
       "months_to_renew_support": "3",
       "sme_email": "Inger.Reina@memento.net.au",
       "vendor_phone": "+62 861 444 4769",
-      "investment_number": "240"
+      "investment_number": "240",
+      "integrations": [
+        {
+          "id": "int-212",
+          "name": "INT-212",
+          "categoryId": "8b222828-21a4-4c70-8033-e7ea01923c61",
+          "description": "Morbi non quam nec dui luctus rutrum.",
+          "sourceApplicationId": "gen-y_aggregator",
+          "targetApplicationId": "seamless_engine",
+          "logical_server": "ONLINE",
+          "status_color": "#00FF00",
+          "pattern": "Sync Request-Reply",
+          "golive_date": "3/3/12",
+          "sme_name": "Gunner Cust",
+          "datacentre": "Dandenong",
+          "department": "Integration",
+          "status": "Active",
+          "sme_email": "gcust7@memento.net.au",
+          "complexity": "Low",
+          "last_deployment_date": "26/4/15"
+        }
+      ]
     }
   ]
 }
