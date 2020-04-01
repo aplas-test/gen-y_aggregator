@@ -29,7 +29,6 @@
           "name": "INT-212",
           "categoryId": "8b222828-21a4-4c70-8033-e7ea01923c61",
           "description": "Morbi non quam nec dui luctus rutrum.",
-          "sourceApplicationId": "gen-y_aggregator",
           "targetApplicationId": "seamless_engine",
           "logical_server": "ONLINE",
           "status_color": "#00FF00",
